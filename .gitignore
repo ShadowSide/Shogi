@@ -1,2 +1,9 @@
 /.vs
 /Shogi/Debug
+/Debug/SDL2.dll
+/Debug/Shogi.exe
+/Debug/Shogi.ilk
+/Debug/Shogi.pdb
+/Debug/levelup_shogi_inpos.bmp
+/Debug/raindrops.bmp
+/Debug/shogi_inpos.bmp
